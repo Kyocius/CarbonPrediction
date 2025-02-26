@@ -63,7 +63,7 @@ nest-asyncio==1.6.0
 notebook==6.5.7
 notebook_shim==0.2.4
 numexpr @ file:///C:/b/abs_05o8p7bfml/croot/numexpr_1730215959182/work
-numpy==2.0.2
+numpy==1.26.4
 overrides==7.7.0
 packaging==24.2
 pandas==1.2.4
@@ -92,7 +92,7 @@ requests==2.25.1
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rpds-py==0.23.1
-scikit-learn @ file:///C:/b/abs_0dwalqot3o/croot/scikit-learn_1737988780693/work/dist/scikit_learn-1.6.1-cp39-cp39-win_amd64.whl#sha256=5d1fd0a91f9c244e66bf5bcca98333fb0af3ed1fea525b6d0398fc53eb9dc17f
+scikit-learn==1.5.2
 scipy @ file:///C:/Users/dev-admin/cr_scipy-feedstock/scipy_1733774324044/work/dist/scipy-1.13.1-cp39-cp39-win_amd64.whl#sha256=f7218697f964ae4372cdcb6f20a05db0d338ccc574c96e9dbf235ed6547dd462
 seaborn @ file:///C:/b/abs_12uob0tcou/croot/seaborn_1738256922386/work
 Send2Trash==1.8.3
